@@ -1,0 +1,6 @@
+src
+demo
+dist-for-demo
+.babelrc
+.gitignore
+webpack.config.js

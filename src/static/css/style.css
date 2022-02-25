@@ -1,0 +1,55 @@
+.chueasy-no-image-wrapper {
+    background-color: #efefef;
+}
+
+.chueasy-no-image-wrapper img {
+    width: 100%;
+}
+
+.chueasy-header-wrapper {
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Arial', 'Segoe UI', 'Roboto', 'Oxygen',
+            'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+            sans-serif;
+    overflow: hidden;
+}
+
+.chueasy-previewer-test-wrapper {
+    width: 100%;
+    text-align: center;
+}
+
+.chueasy-previewer-test-wrapper img {
+    margin: 5px;
+    max-height: 250px;
+    max-width: 100%;
+}
+
+.chueasy-previewer-wrapper {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    overflow: hidden;
+    background: rgba(0, 0, 0, .95);
+    z-index: 9999;
+}
+
+.chueasy-previewer-wrapper img {
+    position: absolute;
+}
+
+.chueasy-previewer-wrapper .btn-close {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background: url("../images/close.svg");
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    cursor: pointer;
+    bottom: 30px;
+    left: 50%;
+    transform:translate(-50%);
+}
