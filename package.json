@@ -1,6 +1,6 @@
 {
   "name": "react-img-previewer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ChuEasy React Image Previewer",
   "main": "dist/index.js",
   "typing": "src/index.d.ts",

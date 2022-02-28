@@ -1,6 +1,11 @@
-src
 demo
-dist-for-demo
+src
 .babelrc
+.gitattrbutes
 .gitignore
+package-lock.json
+README-for-developers.md
 webpack.config.js
+slide1.jpg
+slide2.jpg
+slide3.jpg
