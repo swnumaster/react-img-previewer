@@ -44,6 +44,11 @@
 
 # Change log
 
+    v1.0.2
+
+        change webpack4 to webpack5 and remove url-loader, file-loader, svg-url-loader
+        upgrade other packages for development
+
     v1.0.1
 
         ignore unecessary files
